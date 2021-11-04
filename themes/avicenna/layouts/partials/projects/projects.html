@@ -8,24 +8,32 @@
     <div class="col w-100">
         {{range $page := sort $rscPages "Params.date" "desc"}}
         <div class="project row w-100">
-            <div class="section-1 w-100">
-                <span class="project-title">
+          <div class="section-1 w-100">
+    	    <div class="column">
+                <img src="images/{{$page.Params.picture}}" id="project_picture"/>
+    	    </div> 
+	       <div class="column project-text">
+                <h3 class="project-title">
                     {{$page.Params.title}}
-                </span>
-            </div>
-
-            {{ $links := $page.Params.links }}
-            {{ if $links }}
-            <div class="section-2  w-100">
-                {{range $link_name, $link_url := $links}}
-                {{ if $link_url }}
-                <a class="main_color text-decoration-none rounded " href="{{$link_url}}" target="_blank">
-                    {{$link_name}}
-                </a>
+                </h3> 
+                <div>
+                    {{$page.Params.summary}}
+                </div>
+                {{ $links := $page.Params.links }}
+                {{ if $links }}
+                <div class="section-2  w-100">
+                    {{range $link_name, $link_url := $links}}
+                    {{ if $link_url }}
+                    <a class="main_color text-decoration-none rounded " href="{{$link_url}}" target="_blank">
+                        {{$link_name}}
+                    </a>
+                    {{end}}
+                    {{end}}
+                </div>
                 {{end}}
-                {{end}}
-            </div>
-            {{end}}
+	        </div>            
+        </div>
+           
 
 
         </div>
