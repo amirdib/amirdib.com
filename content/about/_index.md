@@ -45,4 +45,4 @@ academia:
         start_date: '2012'
         end_date: '2015'
 ---
-I completed a Phd at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [PhD manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are avaiable online. 
+I completed a Phd at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [PhD manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are available online. 
