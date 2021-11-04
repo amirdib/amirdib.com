@@ -15,12 +15,30 @@ socials:
     twitter: "AmirDib14"
     linkedin: "amir-dib-b0345175"
 
+workxp:
+    - position:
+        title: "PhD Candidate"
+        institution: 'ENS Paris-Saclay, French National Railway Company (SNCF)'
+        start_date: '2017'
+        end_date: '2021'
+    - position:
+        title: "Research Data Scientist."
+        institution: 'French National Railway Company (SNCF)'
+        start_date: '2015'
+        end_date: '2017'
+    - position:
+        title: "Data Scientist."
+        institution: 'Quantmetry'
+        start_date: '2015'
+        end_date: '2015'
+
 interests:
 - Machine Learning
 - Bayesian Statistics
 - Temporal Sequence classification
 - Pattern Mining
 - Programming & Numerical Computing
+
 affiliations:
     - affiliation:
         title: "Research Data Scientist"
