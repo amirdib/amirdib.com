@@ -4,45 +4,63 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Amir Dib"
+full_name: "YOUR_NAME"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: false
+blog: true
 
 socials:
-    github: "amirdib"
-    twitter: "AmirDib14"
-    linkedin: "amir-dib-b0345175"
+    twitter: "YOUR_NAME"
+    github: "YOUR_NAME"
+    facebook: "YOUR_NAME"
+    linkedin: "YOUR_NAME"
+    twitch: "YOUR_NAME"
+    google_scholar: "YOUR_NAME"
 
 interests:
-- Machine Learning
-- Bayesian Statistics
-- Temporal Sequence classification
-- Pattern Mining
-- Programming & Numerical Computing
+    - Data Intensive Systems
+    - Distributed Systems
+    - Data Streaming Platforms
+    - Large-Scale Data Processing Platforms
+
 affiliations:
     - affiliation:
-        title: "Research Data Scientist"
-        email: "dib.amir@gmail.com"
+        title: "Ph.D."
+        name: "Stanford University"
+        email: "email@cs.stanford.edu"
+    - affiliation:
+        title: "CEO & Co-Founder"
+        name: "The Coolest Startup In the World"
+        email: "email@mycoolstartup.ai"
+
 academia:
     - course:
-        degree: "Ph.D"
-        institution: 'ENS Paris-Saclay'
-        major: 'Machine learning'
-        start_date: '2017'
-        end_date: '2021'
+        degree: "Ph.D."
+        institution:  "Stanford University"
+        major: "Data Systems"
+        start_date: "2021"
     - course:
         degree: "M.Sc."
-        institution: 'Sorbonne University, Polytechnique'
-        major: 'Probability & Finance (DEA El Karoui)'
-        start_date: '2014'
-        end_date: '2015'
+        institution: 'Sharif University of Technology'
+        major: 'Software Engineering'
+        start_date: '2013'
+        end_date: '2016'
+        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
     - course:
-        degree: "M.Sc."
-        institution: 'Paris-Saclay University'
-        major: 'Fundamental Physics'
-        start_date: '2012'
-        end_date: '2015'
+        degree: "B.Sc."
+        institution: 'University of Kashan'
+        major: 'Software Engineering'
+        minor: 'Statistics'
+        start_date: '2009'
+        end_date: '2013'
+        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
 ---
-I completed a Phd at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [PhD manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are avaiable online. 
+
+**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+
+
+Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
+
+
+[1]: ahadsfsa.com
