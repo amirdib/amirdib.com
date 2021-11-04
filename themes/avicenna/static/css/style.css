@@ -179,29 +179,6 @@ h2 code {
     margin-left: -1%;
 }
 
-.projects .section-1{
-    display:flex;   
-    width: 100px;
-    /* background-color: lightblue; */
-}
-
-.projects .section-1 .project-text{
-    width: 40%;
-    margin-left: 5%;
-    margin-top: 2%;
-    margin-bottom: 2%;
-}
-.projects .project-title{
-    text-align: center;
-}
-
-#project_picture  {
-    width: 350px;
-    height: 300px;
-    /* margin-top: 1%; */
-    margin-right: 3%;
-}
-
 .projects .project {
     margin-top: 1.5%;
 }

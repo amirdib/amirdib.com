@@ -24,7 +24,7 @@
         <div class="course col">
             <div class="institution_dates row">
                 <div class="institution col" id="institution_title">
-                  {{$academia.course.degree}} {{$academia.course.major}}
+                    {{$academia.course.institution}}
                 </div>
                 <div class="main_color dates col-md-auto  justify-content-end">
                     {{$academia.course.start_date}}
@@ -36,8 +36,9 @@
                 </div>
             </div>
             <div class="degree_major row">
-              <div class="text-muted col">
-		{{$academia.course.institution}}
+                <div class="text-muted col">
+                    {{$academia.course.degree}} {{$academia.course.major}}
+
                     {{if $academia.course.minor }}
                     , Minor: {{$academia.course.minor}}
                     {{end}}
