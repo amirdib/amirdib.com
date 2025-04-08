@@ -81,7 +81,7 @@ There is a folder named `static` under the root of your site's folder. Its struc
 
 ![static_folder](https://github.com/hadisinaee/avicenna/blob/master/static_folder.png)
 
-- **Profile Picture**: Simply replace `profile.png` with your profile file. Please use the same name and extenstion, e.g. `profile.png`. It doesn't work if you use another *name* or *extension*.
+- **Profile Picture**: Simply replace `profile.jpeg` with your profile file. Please use the same name and extenstion, e.g. `profile.jpeg`. It doesn't work if you use another *name* or *extension*.
 - **CV**: You need to put your CV directly under `static` folder. I recommend you to use the name `cv.pdf` for your CV file. Also, if you wanted to use another file name, you would need to change it in your introduction. See Introduction Section.
 - **Favicon**: It has the same procedure as your profile picture.
 

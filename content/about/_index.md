@@ -5,7 +5,7 @@ draft: false
 headless: true
 
 full_name: "Amir Dib"
-profile_picture: "profile.png"
+profile_picture: "profile.jpeg"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
 blog: false
