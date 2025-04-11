@@ -22,7 +22,7 @@ workxp:
       start_date: "2021"
       end_date: "end 2022"
   - position:
-      title: "PhD Candidate"
+      title: "Doctoral Candidate"
       institution: "ENS Paris-Saclay, French National Railway Company (SNCF)"
       start_date: "2017"
       end_date: "2021"
@@ -69,4 +69,4 @@ academia:
       end_date: "2015"
 ---
 
-I completed a PhD at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [PhD manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are available online.
+I completed a PhD at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [thesis manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are available online.
