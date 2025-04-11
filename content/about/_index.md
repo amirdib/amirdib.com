@@ -46,7 +46,7 @@ interests:
 
 affiliations:
   - affiliation:
-      title: "Research Data Scientist"
+      title: "AI Scientist"
       email: "dib.amir@gmail.com"
 academia:
   - course:
