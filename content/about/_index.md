@@ -16,6 +16,11 @@ socials:
   linkedin: "amir-dib-b0345175"
 
 workxp:
+- position:
+      title: "Research Scientist"
+      institution: "POLYGON AI"
+      start_date: "2023"
+      end_date: "Present"
   - position:
       title: "Lead Research Scientist"
       institution: "CITIO / RATP"
