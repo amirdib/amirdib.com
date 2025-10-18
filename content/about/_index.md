@@ -16,7 +16,7 @@ socials:
   linkedin: "amir-dib-b0345175"
 
 workxp:
-- position:
+  - position:
       title: "Research Scientist"
       institution: "POLYGON AI"
       start_date: "2023"
@@ -74,4 +74,6 @@ academia:
       end_date: "2015"
 ---
 
-I completed a PhD at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [thesis manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are available online. Currently helping build cutting-edge AI products at [POLYGON AI](https://polygon.ai) at large scale for major industrial clients.
+I completed a PhD at ENS Paris-Saclay under the supervision of Nicolas VAYATIS and Mathilde MOUGEOT titled _High dimensional pattern learning for symbolic time-series_. My research focused on ML model for symbolic time series classification applied to anomaly detection. It covers related problem in statistical learning theory, bayesian inference and pattern extraction. The [thesis manuscript](thesis_manuscript.pdf) and the [PhD defense' slides](phd_defense_slides.pdf) are available online. 
+
+Currently helping build cutting-edge AI products at [POLYGON AI](https://polygon.ai) at large scale for major industrial clients.
