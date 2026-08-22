@@ -1,0 +1,8 @@
+[build]
+  command = "hugo --gc --minify -b $URL"
+  publish = "public"
+
+[build.environment]
+  # The Ubuntu Noble build image ships no default Hugo binary; without this pin
+  # the build fails with "hugo: command not found" (exit 127).
+  HUGO_VERSION = "0.165.0"
